@@ -1,4 +1,4 @@
-Hello there, this is Niel, I'm a smart contract developer with experience in Solidity and Motoko 👨🏻‍💻
+Hello there, this is Niel, I'm a smart contract developer with experience in Solidity, Motoko and ReactJS 👨🏻‍💻
 
 I'm currently working on building my stack coming up with different ideas and building them 🧱
 
