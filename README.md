@@ -8,4 +8,4 @@ Big believer in blockchain technology 👀
 
 The applications I build are mostly centered around DeFi and GameFi. I will happily collaborate on any DeFi project for any EVM or ICP 💻
 
-Contact me through discord @niel#5196 📫
+Contact me through discord - @niel#5196 - or telegram - @solidity_niel - 📫
